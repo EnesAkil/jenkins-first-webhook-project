@@ -1,1 +1,1 @@
-hello world
+print ("hello this test create by EAA ")
